@@ -1,6 +1,4 @@
-# AI_Personal
-# Voice_Assistant
-# Using_Python
+### AI_Personal_Voice_Assistant_Using_Python
 # By_Tesimune
 
 A project to build an AI voice assistant using Python . The Voice assistant interacts with the humans to perform basic tasks.
